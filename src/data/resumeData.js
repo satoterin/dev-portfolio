@@ -9,7 +9,7 @@ export const main = {
     "quote": "The universe is a pretty big place. If it's just us.",
     "address": "Singapore, Singapore",
     "website": "https://khaliddev.com",
-    "resumedownload": "https://drive.google.com/file/d/1ktwIhlxw6tnsPKgb6Y06v8kyMXKlvvWa/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1eucHfOsBZwvAlM7FKxsnj-H164_3SxVx/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
@@ -50,7 +50,7 @@ export const about = {
     "years": 7,
     "image": "img/profile.jpeg",
     // "video": "https://www.youtube.com/watch?v=ghQd1PbzVaY",
-    "resumedownload": "https://drive.google.com/file/d/1ktwIhlxw6tnsPKgb6Y06v8kyMXKlvvWa/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1eucHfOsBZwvAlM7FKxsnj-H164_3SxVx/view?usp=sharing",
 }
 
 export const works = [
