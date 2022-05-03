@@ -1,19 +1,19 @@
 export const main = {
-    "name": "Jude Kiyoshi",
+    "name": "Arnold Tang",
     "occupation": "Full-Stack Developer",
     "description": "I'm Software Engineer",
     "image": "profile.jpeg",
-    "bio": "As the founder of KS Devware (software development company), I am Jude Kiyoshi. A young entrepreneur. With nearly 4 years of experience, I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
-    "email": "judekinsley911@gmail.com",
-    "phone": "+81 126 974 254",
+    "bio": "I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
+    "email": "arnold.tang3@gmail.com",
+    "phone": "+65 3561 4309",
     "quote": "The universe is a pretty big place. If it's just us.",
-    "address": "Yokohama, Kanagawa, Japan",
+    "address": "Singapore, Singapore",
     "website": "https://khaliddev.com",
     "resumedownload": "https://drive.google.com/file/d/1ktwIhlxw6tnsPKgb6Y06v8kyMXKlvvWa/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
-            "url": "https://linkedin.com/in/jude-kiyoshi-a6240722b",
+            "url": "https://linkedin.com/in/arnoldtang3",
             "iconName": "logo-linkedin"
         },
         {
@@ -324,7 +324,7 @@ export const partners = [
 
 export const testimonials = [
     {
-        "text": "We are very content and happy wan all the work Jude Kiyoshi has done for us! Not only did he just what he had to do, comes up with suggestions and improvements of his owns and points out weaknesses which he in perfect communication is able to improve. Recommended! ",
+        "text": "We are very content and happy wan all the work Arnold Tang has done for us! Not only did he just what he had to do, comes up with suggestions and improvements of his owns and points out weaknesses which he in perfect communication is able to improve. Recommended! ",
         "user": "Jason Sindram",
         "company": "CTO at DP-Websolutions"
     },
