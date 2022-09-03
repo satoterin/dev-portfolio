@@ -5,11 +5,11 @@ export const main = {
     "image": "profile.jpeg",
     "bio": "I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
     "email": "arnold.tang3@gmail.com",
-    "phone": "+65 3561 4309",
+    "phone": "+1 (780) 506 8849",
     "quote": "The universe is a pretty big place. If it's just us.",
-    "address": "Singapore, Singapore",
-    "website": "https://khaliddev.com",
-    "resumedownload": "https://drive.google.com/file/d/1eucHfOsBZwvAlM7FKxsnj-H164_3SxVx/view?usp=sharing",
+    "address": "Edmonton, AB",
+    "website": "https://arnoldtang.vercel.app",
+    "resumedownload": "https://drive.google.com/file/d/1TH5f9OljgfgFeAxik7WiisaePmGeNHe_/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
@@ -46,51 +46,51 @@ export const main = {
 
 export const about = {
     "bio": "I am a software <br /><span class='text-primary'>engineer</span> who cares<br /> about the code and the people.",
-    "ido": "<p>WEB DEVELOPMENT</p><p>APP DEVELOPMENT</p><p>UI/UX DESIGN</p><p>FRONT-END DEVELOPMENT</p><p>BACK-END DEVELOPMENT</p><p>FULL-STACK DEVELOPMENT</p>",
+    "ido": "<p>WEB DEVELOPMENT</p><p>BLOCKCHAIN DEVELOPMENT</p><p>SMART CONTRACT DEVELOPMENT</p><p>FRONT-END DEVELOPMENT</p><p>BACK-END DEVELOPMENT</p><p>FULL-STACK DEVELOPMENT</p>",
     "years": 7,
     "image": "img/profile.jpeg",
     // "video": "https://www.youtube.com/watch?v=ghQd1PbzVaY",
-    "resumedownload": "https://drive.google.com/file/d/1eucHfOsBZwvAlM7FKxsnj-H164_3SxVx/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1TH5f9OljgfgFeAxik7WiisaePmGeNHe_/view?usp=sharing",
 }
 
 export const works = [
     [
         {
-            "company": "KS Devware",
-            "title": "Founder",
+            "company": "Freelance",
+            "title": "Software Engineer",
             "image": "img/behance.png",
-            "years": "March 2021 - Present",
-            "description": "• Developing revenue-generating applications at both small and large scales <br />• Providing comprehensive maintenance support <br />• Improving the user interface <br />• Building apps for self-health and helping the nation"
+            "years": "May 2021 - Present",
+            "description": "• Developed Pegasus game token IDO project of Pegasus Metaverse MMORPG <br />• Creation of HowToTube website(VideoPlatform) using React, Python, Flask, PostgreSQL, SQLAlchemy and RESTful design as full-stack web application <br />• Working with event-driven architectures, Redis, Golang, PostgreSQL and cloud services, like GCP or AWS <br />•  Working with Hardhat and Geth or other development frameworks and local environments <br />• Exploring Cosmos SDK projects and other projects that will be built on the cosmos <br />• Full-stack programming with focus on using strongly typed languages (Rust, Golang, Typescript) <br />• Crypto Coins Exchange Development, ICO & IDO Development with Created Token"
         },
         {
-            "company": "DP-Websolutions",
-            "title": "Full-Stack Developer & UI/UX designer",
+            "company": "Tintash",
+            "title": "Web Full-Stack Developer & Blockchain Developer",
             "image": "img/behance.png",
-            "years": "July 2020 - Present",
-            "description": "• Dedicated years of collaborative effort resulted in 30% increase in company revenue <br />• Responsible for testing applications and looking for bugs & monitoring website performance <br />• Responsible for application code and UI/UX design <br />• Built responsive custom WordPress themes from scratch also with DIVI theme <br />• Optimized company website for performance and Search Engine Optimization"
+            "years": "August 2020 - April 2021",
+            "description": "• NFT (Non-Fungible Token) Marketplace and Mint site Development <br />• Solidity smart contract development, management, processes, best practices, debugging and testing tools <br />• Designed and provided web solutions for a number of small businesses using Wordpress, Jamstack CMSs, social network/Web APIs, e-commerce pay modules <br />• Architected and led a development team building core apps and NLP based chatbot using React.js, Vue.js, GraphQL and Node.js <br />• Developed dynamic and interactive website that ensured high traffic, page views, and user experience, resulting in 40% increase in sales revenu"
         },
         {
-            "company": "OpticEngine",
-            "title": "Senior Lead Full-Stack Web & Mobile Developer",
+            "company": "Iglu",
+            "title": "Lead Full-Stack Developer & Project Manager",
             "image": "img/behance.png",
-            "years": "June 2021 - October 21",
-            "description": "• Built websites with React JS and node js as backend <br />• Designing web and mobile apps mockups using Figma <br />• Designed and built the User Interface of the mobile app with React-native <br />• Assist the backend developer on ongoing development projects <br />• Participating in all decision-making processes which includes the database design, tooling, deployment processes etc"
+            "years": "February 2019 - August 2020",
+            "description": "• Developed a React web app (DApp) for blockchain-based track and trade systems <br />• Introduced an IBFT consensus algorithmand contributed to big mining pool on the AION network <br />• Designed and built the User Interface of the mobile app with React-native <br />• Assist the backend developer on ongoing development projects <br />• Participating in all decision-making processes which includes the database design, tooling, deployment processes etc"
         }
     ],
     [
         {
-            "company": "Ganlax Group",
+            "company": "Genic Solutions",
             "title": "Web Developer",
             "image": "img/behance.png",
-            "years": "May 20 - Present",
-            "description": "• Built the company website with custom WordPress themes from scratch <br />• Optimized company website for performance and Search Engine Optimization <br />• Developed Custom Post Types and created custom fields with ACF plugins <br />• Sliced up design assets from Photoshop files when building custom themes <br />• Performed maintenance tasks on pre-existing sites using the Infinite WP dashboard, such as updating plugins, ensuring backups are running, and running security scans"
+            "years": "October 2017 - February 2019",
+            "description": "• Created a Django (Python) web application for a company that works with insurance companies and radiologists. The work included updating Django admin pages and working with bulk imports of CSV data <br />• Deployed full-stack web applications to AWS EC2, and RDS <br />• Developed a web application foran IT support company that involved building Python back-end and JavaScript front-end. Also built charts to visually display information about client computers <br />• Utilize jQuery, AJAX and AngularJS to redesign the UI functionality of 5+ multithreaded apps running on mobiles, tablets, and other touchscreen devices <br />• Performed maintenance tasks on pre-existing sites using the Infinite WP dashboard, such as updating plugins, ensuring backups are running, and running security scans"
         },
         {
-            "company": "FN Softwares & institute",
-            "title": "Trainer & Full-Stack Developer",
+            "company": "Vinova Pte. Ltd.",
+            "title": "Intern Web Developer & Full-Stack Developer",
             "image": "img/behance.png",
-            "years": "Aug 20 - Present",
-            "description": "• Trained programming over 500+ students on 2 successful courses <br />• Developed beta version of 'eSomaz (a social media)' app, used by 20K+ active users (increased active user by 25%) <br />• Developed a VS Code Extension for 'eSomaz' which helped to connect programmers <br />• Worked as an adviser on decision-making processes • Motivated jr developers on programming & life "
+            "years": "October 2015 - September 2017",
+            "description": "• Utilize jQuery, AJAX and AngularJS to redesign the UI functionality of 5+ multi-threaded apps running on mobiles, tablets, and other touchscreen devices <br />• Software development using ElectronJS+Node.js+Vue.js for a Marijuana Medicinal company <br />• Maintained complex technology infrastructure and collaborated with product team to implement new features and strategically plan for future products <br />• Worked as an adviser on decision-making processes • Conducted unit and load testing for high profile customer facing applications, which reduced system failure rate by 70% "
         }
     ]
 ]
@@ -101,19 +101,19 @@ export const skills = {
     skills: [
         {
             "title": "Ninja at",
-            skills: ["JavaScript", "React JS", "React Native"]
+            skills: ["JavaScript", "TypeScript", "React JS", "Vue", "Ethereum", "Web3.js", "Ethers.js"]
         },
         {
             "title": "Expert at",
-            skills: ["Next JS", "Node JS", "Express JS", "MongoDB", "MySQL", "CSS"]
+            skills: ["Golang", "Python", "Next JS", "Node JS", "Express JS", "MongoDB", "MySQL", "CI/CD", "AWS", "GCP"]
         },
         {
             "title": "Good at",
-            skills: ["Redux", "UI/UX Design", "Firebase", "WordPress", "Git, GitHub", "Jquery", "Tailwind CSS", "Rest APIs"]
+            skills: ["Redux", "Solidity", "Firebase", "Git, GitHub", "gRPC", "Tailwind CSS", "Rest APIs", "Kubernetes", "Docker", ]
         },
         {
             "title": "Cool at",
-            skills: ["PWA", "SEO", "Figma", "PHP", "SCSS", "Jquery", "Bootstrap", "Material UI", "HTML", "AJAX"]
+            skills: ["PWA", "SEO", "Figma", "PHP", "Rust", "GraphQL", "Cosmos SDK", "Material UI", "RabbitMQ", "Storybook"]
         },
     ]
 }
@@ -286,18 +286,6 @@ export const projects = [
         "category": "UI/UX Design",
         "image": "peer4-admin.jpg",
         "url": "https://www.figma.com/proto/yoQYmaIIPaTQapbwyzr4AI/PEER4-CAR?node-id=1%3A2&viewport=578%2C-192%2C0.38818028569221497&scaling=min-zoom&page-id=0%3A1"
-    },
-    {
-        "title": "Restarant UI design",
-        "category": "UI/UX Design",
-        "image": "res-ui-deisgn.jpg",
-        "url": "https://www.figma.com/proto/CEUw87emTmSLLXCO4hfdSb/RESTAURANT-Theme?node-id=1%3A2&viewport=491%2C87%2C0.25013697147369385&scaling=min-zoom&page-id=0%3A1"
-    },
-    {
-        "title": "Text to Speech",
-        "category": "Website",
-        "image": "tts.jpg",
-        "url": "https://ksdevware.com/old/portfolio/Text_to_speech"
     }
 ]
 
