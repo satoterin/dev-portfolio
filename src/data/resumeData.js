@@ -50,7 +50,7 @@ export const about = {
     "years": 7,
     "image": "img/profile.jpeg",
     // "video": "https://www.youtube.com/watch?v=ghQd1PbzVaY",
-    "resumedownload": "https://drive.google.com/file/d/1RIuFzXUKVOAWHsD7RVGIuLdem5NJ1Gpi/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/13gL1XSKS8AnWSdOtDOWx_YFnhBc0h28i/view?usp=sharing",
 }
 
 export const works = [
