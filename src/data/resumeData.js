@@ -13,7 +13,7 @@ export const main = {
     "social": [
         {
             "name": "linkedin",
-            "url": "https://linkedin.com/in/arnoldtang3",
+            "url": "https://www.linkedin.com/in/arnold-tang-374112343",
             "iconName": "logo-linkedin"
         },
         {
