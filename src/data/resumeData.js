@@ -5,7 +5,7 @@ export const main = {
     "image": "profile.jpeg",
     "bio": "I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
     "email": "arnold.tang3@gmail.com",
-    "phone": "+1 (780) 506 8849",
+    "phone": "+1 (786) 220 3250",
     "quote": "The universe is a pretty big place. If it's just us.",
     "address": "Edmonton, AB",
     "website": "https://arnoldtang.vercel.app",
