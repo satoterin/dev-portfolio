@@ -9,7 +9,7 @@ export const main = {
     "quote": "The universe is a pretty big place. If it's just us.",
     "address": "Edmonton, AB",
     "website": "https://arnoldtang.vercel.app",
-    "resumedownload": "https://drive.google.com/file/d/13gL1XSKS8AnWSdOtDOWx_YFnhBc0h28i/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1Q9uoQwGt5KwPE8529yu-gvKFcU3QJ_gU/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
